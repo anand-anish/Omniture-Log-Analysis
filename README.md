@@ -16,9 +16,9 @@ These website log files contain data elements such as
 
  One of the original uses of Hadoop at Yahoo was to store and process their massive volume of clickstream data. Now enterprises of all types can use Hadoop and the Cloudera to refine and analyze clickstream data.   
 They can then answer business questions such as:
-What is the most efficient path for a site visitor to research a product, and then buy it?                (Path Optimization)
-What products do visitors tend to buy together, and what are they most likely to buy in the future? (Association Analysis & Next product to buy)
-Where should I spend resources on fixing or enhancing the user experience on my website? (Allocation of website resources)  
+- What is the most efficient path for a site visitor to research a product, and then buy it? (Path Optimization)
+- What products do visitors tend to buy together, and what are they most likely to buy in the future? (Association Analysis & Next product to buy)
+- Where should I spend resources on fixing or enhancing the user experience on my website? (Allocation of website resources)  
 
 #### We will focus on the “path optimization” use case. Specifically: how can we improve our website to reduce bounce rates and improve conversion?
 
